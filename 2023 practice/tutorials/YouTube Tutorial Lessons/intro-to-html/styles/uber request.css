@@ -1,0 +1,54 @@
+p{
+    font-family: arial;
+}
+input{
+    display: block;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    border: none;
+    border-color: white;
+    border-radius: 0px;
+    margin-top: 15px;
+    font-size: 20px;
+    background-color: rgb(244, 247, 245);
+}
+
+.title{
+    font-size: 40px;
+    font-weight: bold;
+    color: black;
+    margin-bottom: 25px;
+}
+.location{
+    width: 250px;
+    margin-top: 0px;
+}
+    
+.destination{
+   width: 250px;
+   margin-bottom: 35px;
+}
+.request{
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    width: 180px;
+    height: 60px;
+}
+.schedule{
+    background-color: rgb(198, 202, 202);
+    color: black;
+    border: none;
+    font-size: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 250px;
+    height: 60px;
+    margin-left: 20px;
+   padding-top: 15px;
+   padding-bottom: 15px;
+}

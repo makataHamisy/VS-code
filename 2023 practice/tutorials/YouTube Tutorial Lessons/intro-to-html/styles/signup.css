@@ -1,0 +1,36 @@
+  input {
+                border-width: 1px;
+                border-style: solid;
+                border-color: rgb(200, 200, 200);
+                padding-top: 12px;
+                padding-bottom: 12px;
+                padding-left: 16px;
+                padding-right: 16px;
+                font-size: 16px;
+                border-radius: 8px;
+                margin-bottom: 12px;
+            }
+            .First{
+                width: 148px;
+            }
+        
+            .last{
+                width: 148px;
+            }
+            .email{
+                display: block;
+                width: 340px;
+            }
+
+            .login{
+                background-color: rgba(0, 132, 255, 0.897);
+                color: white;
+                font-weight: bold;
+                border-radius: 8px;
+                border: none;
+                width: 380px;
+                font-size: 18px;
+                padding-top: 14px;
+                padding-bottom: 14px;
+            }
+    

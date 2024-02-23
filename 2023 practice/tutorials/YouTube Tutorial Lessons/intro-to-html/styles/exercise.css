@@ -1,0 +1,81 @@
+            .tahoma-text{
+                font-family: Tahoma;
+                font-size: 30px;
+                font-weight: bold;
+            }
+            .biggest-deals{
+                font-family: Arial;
+                font-weight: bold;
+                font-size: 26px;
+                margin-bottom: 0;
+                margin-bottom: 8px;
+        
+            }
+            .sales-text{
+               font-family: arial;
+               font-size: 18px; 
+               font-style: italic;
+               margin-top: 0;
+               margin-top: 10px;
+               color: red;
+            }
+            .html-text{
+                font-family: verdana;
+                font-weight: bold;
+                font-size: 18px;
+                margin-bottom: 0;
+                margin-bottom: 3px;
+            }
+            .beginner-text{
+                font-family: verdana;
+                font-size: 18px;
+                margin-top: 0;
+                margin-top: 5px;
+                color: grey;
+                margin-bottom: 0;
+                margin-bottom: 30px;
+        
+            }
+            .description-text{
+                font-family: verdana;
+                font-size: 20px;
+                margin-top: 0;
+                margin-bottom: 18px;
+                width: 300px;
+                line-height: 25px;
+            }
+            .get-started-button{
+                background-color: rgba(86, 190, 86, 0.705);
+                color: white;
+                border: none;
+                font-family: verdana;
+                font-size: 25px;
+                border-radius: 6px;
+                padding-left: 16px;
+                padding-top: 8px;
+                padding-right: 16px;
+                padding-bottom: 8px;
+            }
+            .shopping-text{
+                font-size: 40px;
+                font-weight: bold;
+                margin-bottom: 20px;
+                margin-top: 20px;
+                text-align: center;
+            }
+            .description2-text{
+                margin-bottom: 20px;
+                text-align: center;   
+            }
+            .learn-text {
+                font-size: 20px;
+                text-align: center;
+                color: blue;
+            }
+            .learn-link{
+                cursor: pointer;
+                
+            }
+            .learn-link:hover{
+                text-decoration: underline;
+            }

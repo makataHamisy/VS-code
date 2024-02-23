@@ -1,0 +1,1352 @@
+body{
+    background: #000000;
+    color: #ffffff;
+}
+
+.claritylanding-page {
+    background-color: transparent;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .claritylanding-page .main-wrapper {
+    width: 1447px;
+    height: 6449.51px;
+  }
+  
+  .claritylanding-page .main {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: relative;
+  }
+  
+  .claritylanding-page .header-header {
+    position: relative;
+    width: 1440px;
+    height: 100px;
+    z-index: 1;
+    background-color: #000000;
+  }
+  
+  .claritylanding-page .div-wrapper {
+    display: inline-flex;
+    align-items: flex-start;
+    position: absolute;
+    top: 38px;
+    left: 64px;
+  }
+  
+  .claritylanding-page .div {
+    position: relative;
+    width: 224px;
+    height: 46px;
+    overflow: hidden;
+  }
+  
+  .claritylanding-page .text-wrapper {
+    position: absolute;
+    height: 64px;
+    top: -10px;
+    left: 0;
+    font-family: "Montserrat-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #ffffff;
+    font-size: 35px;
+    letter-spacing: -0.64px;
+    line-height: 64px;
+    white-space: nowrap;
+  }
+  
+  .claritylanding-page .div-widget-group {
+    display: inline-flex;
+    align-items: center;
+    gap: 32px;
+    padding: 0px 23px;
+    position: absolute;
+    top: 0;
+    left: 1064px;
+  }
+  
+  .claritylanding-page .div-lang-box {
+    position: relative;
+    width: 44.19px;
+    height: 27px;
+  }
+  
+  .claritylanding-page .text-wrapper-2 {
+    position: absolute;
+    height: 21px;
+    top: 2px;
+    left: 0;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 17px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .claritylanding-page .frame {
+    position: absolute;
+    width: 14px;
+    height: 14px;
+    top: 5px;
+    left: 30px;
+  }
+  
+  .claritylanding-page .a-simple-button {
+    display: inline-flex;
+    align-items: flex-start;
+    position: relative;
+    flex: 0 0 auto;
+    all: unset;
+    box-sizing: border-box;
+    border: 1px solid #ffffff;
+    border-radius: 9999px;
+    padding: 18px 22.11px 18px 22px;
+    border-color: #06cd98;
+  }
+  
+  .claritylanding-page .text-wrapper-3 {
+    position: relative;
+    width: fit-content;
+    margin-top: -2px;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #06cd98;
+    font-size: 19px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 20px;
+    white-space: nowrap;
+  }
+  
+  .claritylanding-page .div-btn {
+    position: relative;
+    width: 116px;
+    height: 100px;
+  }
+  
+  .claritylanding-page .div-wrapper-pit {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 5px;
+    position: relative;
+    top: 46px;
+    left: 43px;
+  }
+  
+  .claritylanding-page .div-line-kwecj {
+    position: relative;
+    width: 30px;
+    height: 2px;
+    background-color: #ffffff;
+    border-radius: 1px;
+  }
+  
+  .claritylanding-page .div-tiktokads {
+    display: inline-flex;
+    align-items: flex-start;
+    padding: 0px 0px 0.01px;
+    position: relative;
+    flex: 0 0 auto;
+    z-index: 0;
+  }
+  
+  .claritylanding-page .div-2 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .claritylanding-page .hero-overlay {
+    display: inline-flex;
+    align-items: flex-start;
+    position: relative;
+    flex: 0 0 auto;
+    background-color: #000000;
+    opacity: 0.92;
+  }
+  
+  .claritylanding-page .div-3 {
+    display: inline-flex;
+    align-items: flex-start;
+    position: relative;
+    flex: 0 0 auto;
+    background-color: #000000;
+  }
+  
+  .claritylanding-page .div-relative {
+    display: inline-flex;
+    align-items: flex-start;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .claritylanding-page .div-swiper-container {
+    display: flex;
+    width: 1440px;
+    align-items: flex-start;
+    position: relative;
+    overflow: hidden;
+  }
+  
+  .claritylanding-page .div-swiper-slide {
+    display: flex;
+    width: 1441px;
+    align-items: center;
+    justify-content: center;
+    padding: 0px 37.2px;
+    position: relative;
+    background-color: #000000;
+  }
+  
+  .claritylanding-page .div-hero {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+    padding: 81px 96.81px 165px 96.8px;
+    position: relative;
+    flex: 0 0 auto;
+    background-color: #000000;
+  }
+  
+  .claritylanding-page .hero {
+    display: inline-flex;
+    align-items: flex-end;
+    justify-content: center;
+    padding: 0px 74.94px 0px 0px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .claritylanding-page .live-win-life {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Montserrat-Black", Helvetica;
+    font-weight: 900;
+    color: transparent;
+    font-size: 120px;
+    text-align: center;
+    letter-spacing: -0.16px;
+    line-height: 128px;
+  }
+  
+  .claritylanding-page .span {
+    color: #06cd98;
+  }
+  
+  .claritylanding-page .text-wrapper-4 {
+    color: #ffffff;
+  }
+  
+  .claritylanding-page .a-ttb-simple-button {
+    align-items: flex-start;
+    padding: 17px 45px;
+    background-color: #06cd98;
+    border: 2px solid;
+    display: inline-flex;
+    position: relative;
+    flex: 0 0 auto;
+    border-radius: 9999px;
+    all: unset;
+    box-sizing: border-box;
+  }
+  
+  .claritylanding-page .text-wrapper-5 {
+    width: fit-content;
+    margin-top: -2px;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    font-size: 19px;
+    line-height: 20px;
+    position: relative;
+    color: #ffffff;
+    text-align: center;
+    letter-spacing: 0;
+    white-space: nowrap;
+    border-radius: 9999px;
+    padding: 15px 36px 15px 36px;
+    background-color: #06cd98;
+  }
+  
+  .claritylanding-page .div-ttb-hero {
+    position: absolute;
+    width: 214px;
+    height: 522px;
+    top: 344px;
+    left: 852px;
+  }
+  
+  .claritylanding-page .div-4 {
+    display: inline-flex;
+    align-items: flex-start;
+    position: relative;
+    flex: 0 0 auto;
+    background-color: #06cd98;
+  }
+  
+  .claritylanding-page .div-grid {
+    display: flex;
+    flex-direction: column;
+    width: 1440px;
+    align-items: flex-start;
+    gap: 96px;
+    padding: 96px 110.5px;
+    position: relative;
+    background-color: #06cd98;
+  }
+  
+  .claritylanding-page .div-grid-wrapper {
+    display: inline-flex;
+    align-items: flex-start;
+    position: relative;
+    flex: 0 0 auto;
+    margin-right: -51px;
+    background-color: #06cd98;
+  }
+  
+  .claritylanding-page .div-grid-2 {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 282px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .claritylanding-page .a-shopping {
+    position: relative;
+    width: fit-content;
+    font-family: "Montserrat-Black", Helvetica;
+    font-weight: 900;
+    color: #ffffff;
+    font-size: 58px;
+    letter-spacing: -0.64px;
+    line-height: 64px;
+  }
+  
+  .claritylanding-page .div-mt {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 60px;
+    padding: 20px 187px 0px 0px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .claritylanding-page .p-max-w-sm {
+    display: inline-flex;
+    align-items: flex-start;
+    padding: 0px 8px 0px 0px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .claritylanding-page .p {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 19px;
+    letter-spacing: 0;
+    line-height: 28px;
+  }
+  
+  .claritylanding-page .a-self-end {
+    display: inline-flex;
+    align-items: flex-start;
+    padding: 18px 45px;
+    position: relative;
+    flex: 0 0 auto;
+    border-radius: 9999px;
+    border: 2px solid;
+    border-color: #ffffff;
+  }
+  
+  .claritylanding-page .text-wrapper-6 {
+    width: fit-content;
+    margin-top: -2px;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 18px;
+    position: relative;
+    color: #ffffff;
+    text-align: center;
+    letter-spacing: 0;
+    white-space: nowrap;
+    
+  }
+  
+  .claritylanding-page .block {
+    position: relative;
+    width: 1440px;
+    height: 1321.53px;
+    background-color: #000000;
+    overflow: hidden;
+  }
+  
+  .claritylanding-page .div-py {
+    position: relative;
+    height: 1225px;
+    background-color: #000000;
+  }
+  
+  .claritylanding-page .div-flex {
+    display: inline-flex;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 337px;
+    padding: 28px 0px 0.01px;
+    position: absolute;
+    top: 122px;
+    left: 64px;
+  }
+  
+  .claritylanding-page .font-bold {
+    position: relative;
+    width: 800px;
+    height: 123.19px;
+    z-index: 1;
+  }
+  
+  .claritylanding-page .earn-points-by-being {
+    position: absolute;
+    width: 1158px;
+    height: 192px;
+    margin-top: -70px;
+    left: 0;
+    font-family: "Montserrat-Black", Helvetica;
+    font-weight: 900;
+    color: transparent;
+    font-size: 80px;
+    letter-spacing: 0;
+    line-height: 96px;
+  }
+  
+  .claritylanding-page .btn {
+    display: inline-flex;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 10px;
+    padding: 18px 45px;
+    position: relative;
+    flex: 0 0 auto;
+    z-index: 0;
+    background-color: #06cd98;
+    border-radius: 9999px;
+    border: 2px solid;
+    all: unset;
+    box-sizing: border-box;
+  }
+  
+  .claritylanding-page .text-wrapper-7 {
+    width: 90.87px;
+    height: 18px;
+    margin-top: -2px;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 18px;
+    position: relative;
+    color: #ffffff;
+    text-align: center;
+    letter-spacing: 0;
+    white-space: nowrap;
+    border-radius: 9999px;
+    padding: 15px 36px 15px 36px;
+    background-color: #06cd98;
+
+  }
+  
+  .claritylanding-page .div-spotlight-tiles {
+    position: absolute;
+    width: 1312px;
+    height: 856px;
+    top: 370px;
+    left: 64px;
+  }
+  
+  .claritylanding-page .div-spotlight-wrapper {
+    position: absolute;
+    width: 416px;
+    height: 856px;
+    top: 0;
+    left: 444px;
+  }
+  
+  .claritylanding-page .div-spotlight {
+    width: 417px;
+    height: 795px;
+    border-radius: 20px;
+    background-image: url(./img/tiktok-1.png);
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .claritylanding-page .div-flex-2 {
+    position: absolute;
+    width: 416px;
+    height: 856px;
+    top: 0;
+    left: 888px;
+  }
+  
+  .claritylanding-page .helping-yves-saint {
+    position: absolute;
+    height: 68px;
+    top: 433px;
+    left: 0;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: 22.4px;
+  }
+  
+  .claritylanding-page .active-users {
+    position: absolute;
+    width: 374px;
+    height: 256px;
+    top: 137px;
+    left: 0;
+    font-family: "Montserrat-Black", Helvetica;
+    font-weight: 900;
+    color: #ffffff;
+    font-size: 100px;
+    letter-spacing: -0.16px;
+    line-height: 128px;
+  }
+  
+  .claritylanding-page .overlap-group {
+    position: absolute;
+    width: 443px;
+    height: 856px;
+    top: 0;
+    left: 0;
+  }
+  
+  .claritylanding-page .element-wrapper {
+    position: absolute;
+    width: 416px;
+    height: 856px;
+    top: 0;
+    left: 0;
+  }
+  
+  .claritylanding-page .element {
+    position: absolute;
+    width: 893px;
+    height: 128px;
+    top: 293px;
+    left: -38px;
+    -webkit-text-stroke: 6px #ffffff;
+    font-family: "Inter-Black", Helvetica;
+    font-weight: 900;
+    color: transparent;
+    font-size: 307px;
+    letter-spacing: -0.16px;
+    line-height: 128px;
+  }
+  
+  .claritylanding-page .vector {
+    position: absolute;
+    width: 39px;
+    height: 201px;
+    top: 265px;
+    left: 404px;
+  }
+  
+  .claritylanding-page .overlap-wrapper {
+    position: relative;
+    width: 1440px;
+    height: 991px;
+    background-color: #000000;
+    overflow: hidden;
+  }
+  
+  .claritylanding-page .overlap {
+    position: relative;
+    height: 1322px;
+    top: -165px;
+    background-color: #000000;
+  }
+  
+  .claritylanding-page .demo {
+    position: absolute;
+    width: 1313px;
+    height: 621px;
+    top: 535px;
+    left: 64px;
+  }
+  
+  .claritylanding-page .overlap-group-2 {
+    position: relative;
+    width: 653px;
+    height: 489px;
+    top: -33px;
+    left: 207px;
+  }
+  
+  .claritylanding-page .div-flex-wrapper {
+    position: absolute;
+    width: 417px;
+    height: 452px;
+    top: 33px;
+    left: 236px;
+  }
+  
+  .claritylanding-page .div-flex-3 {
+    position: relative;
+    width: 644px;
+    height: 856px;
+    top: -46px;
+    left: 208px;
+  }
+  
+  .claritylanding-page .want-to-know-how {
+    position: absolute;
+    width: 552px;
+    height: 200px;
+    top: 114px;
+    left: -14px;
+    font-family: "Montserrat-Black", Helvetica;
+    font-weight: 900;
+    color: transparent;
+    font-size: 70px;
+    letter-spacing: -0.16px;
+    line-height: 100px;
+  }
+  
+  .claritylanding-page .button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 18px 45px;
+    position: absolute;
+    top: 349px;
+    left: -14px;
+    background-color: #06cd98;
+    border-radius: 9999px;
+    border: 2px solid;
+    all: unset;
+    box-sizing: border-box;
+  }
+  
+  .claritylanding-page .text-wrapper-8 {
+    width: fit-content;
+    margin-top: -2px;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 18px;
+    position: relative;
+    color: #ffffff;
+    text-align: center;
+    letter-spacing: 0;
+    white-space: nowrap;
+    border-radius: 9999px;
+    padding: 15px 36px 15px 36px;
+    background-color: #06cd98;
+  }
+  
+  .claritylanding-page .div-swiper-container-wrapper {
+    position: absolute;
+    width: 333px;
+    height: 489px;
+    top: 0;
+    left: 0;
+  }
+  
+  .claritylanding-page .tik-wrapper {
+    position: relative;
+    height: 489px;
+  }
+  
+  .claritylanding-page .tik {
+    position: absolute;
+    width: 270px;
+    height: 480px;
+    top: 5px;
+    left: 32px;
+    object-fit: cover;
+  }
+  
+  .claritylanding-page .text-wrapper-9 {
+    position: absolute;
+    width: 1159px;
+    height: 128px;
+    top: 188px;
+    left: 140px;
+    font-family: "Montserrat-Black", Helvetica;
+    font-weight: 900;
+    color: #ffffff;
+    font-size: 88px;
+    letter-spacing: -0.16px;
+    line-height: 128px;
+  }
+  
+  .claritylanding-page .section-inner-wrapper {
+    display: inline-flex;
+    align-items: flex-start;
+    position: relative;
+    flex: 0 0 auto;
+    background-color: #ffffff;
+  }
+  
+  .claritylanding-page .section-inner {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 64.59px;
+    padding: 95px 64px 96.01px;
+    position: relative;
+    flex: 0 0 auto;
+    background-color: #ffffff;
+  }
+  
+  .claritylanding-page .title {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 66px;
+    letter-spacing: -0.56px;
+    line-height: 61.6px;
+    white-space: nowrap;
+  }
+  
+  .claritylanding-page .FAQ {
+    display: inline-flex;
+    align-items: flex-start;
+    padding: 0px 0px 1px;
+    position: relative;
+    flex: 0 0 auto;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-color: #000000;
+  }
+  
+  .claritylanding-page .inner {
+    position: relative;
+    width: 1312px;
+    height: 144px;
+  }
+  
+  .claritylanding-page .text-wrapper-10 {
+    position: absolute;
+    height: 64px;
+    top: 39px;
+    left: 0;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 59px;
+    letter-spacing: -0.64px;
+    line-height: 64px;
+    white-space: nowrap;
+  }
+  
+  
+  .claritylanding-page .icon {
+    position: absolute;
+    width: 119px;
+    height: 144px;
+    top: 0;
+    left: 1200px;
+  }
+  
+  .claritylanding-page .inner-2 {
+    width: 1318px;
+    position: relative;
+    height: 144px;
+  }
+  
+  .claritylanding-page .text-wrapper-11 {
+    position: absolute;
+    height: 64px;
+    top: 39px;
+    left: 0;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 62px;
+    letter-spacing: -0.64px;
+    line-height: 64px;
+    white-space: nowrap;
+  }
+  
+  .claritylanding-page .img {
+    position: absolute;
+    width: 113px;
+    height: 144px;
+    top: 0;
+    left: 1206px;
+  }
+  
+  .claritylanding-page .inner-3 {
+    width: 1319px;
+    position: relative;
+    height: 144px;
+  }
+  
+  .claritylanding-page .text-wrapper-12 {
+    position: absolute;
+    height: 64px;
+    top: 39px;
+    left: 0;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 58px;
+    letter-spacing: -0.64px;
+    line-height: 64px;
+    white-space: nowrap;
+  }
+
+  /*-----FAQ-------*/
+  .faq-container {
+    width: fit-content;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .faq-item {
+    margin-bottom: 20px;
+  }
+  
+  .question {
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+  }
+  
+  .answer {
+    font-size: 16px;
+    color: #666;
+  }
+
+  
+  
+    
+  /*------Get that product----------*/
+  .claritylanding-page .div-ttb-spotlight {
+    position: relative;
+    width: 1440px;
+    height: 1302.56px;
+  }
+  
+  .claritylanding-page .div-grid-3 {
+    display: inline-flex;
+    align-items: flex-start;
+    justify-content: center;
+    position: absolute;
+    top: 96px;
+    left: 64px;
+    background-color: #000000;
+  }
+  
+  .claritylanding-page .div-grid-4 {
+    position: relative;
+    width: 1312px;
+    height: 180px;
+  }
+  
+  .claritylanding-page .get-that-product-wrapper {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 10px;
+    padding: 10px;
+    position: absolute;
+    top: -42px;
+    left: -10px;
+  }
+  
+  .claritylanding-page .get-that-product {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 60px;
+    letter-spacing: -0.64px;
+    line-height: 64px;
+  }
+  
+  .claritylanding-page .work-with-companies-wrapper {
+    display: inline-flex;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 0px 20px 0px 0px;
+    position: absolute;
+    top: -42px;
+    left: 928px;
+  }
+  
+  .claritylanding-page .div-swiper-container-2 {
+    display: inline-flex;
+    align-items: flex-start;
+    padding: 0px 336px 0px 0px;
+    position: absolute;
+    top: 372px;
+    left: 64px;
+  }
+  
+  .claritylanding-page .div-swiper-wrapper {
+    position: relative;
+    width: 976px;
+    height: 695.56px;
+  }
+  
+  .claritylanding-page .section {
+    position: absolute;
+    width: 355px;
+    height: 627px;
+    top: 0;
+    left: 0;
+  }
+  
+  .claritylanding-page .text-wrapper-13 {
+    position: absolute;
+    height: 21px;
+    top: 0;
+    left: 0;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #25f4ee;
+    font-size: 17px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .claritylanding-page .div-overflow-hidden {
+    position: absolute;
+    width: 306px;
+    height: 412px;
+    top: 48px;
+    left: 0;
+    border-radius: 35.9px;
+    overflow: hidden;
+    background-image: url(./img/tipdilz7wysq-2mejylu8tucfrwsgdamcx6-webp.png);
+    background-size: 100% 100%;
+  }
+  
+  .claritylanding-page .img-2 {
+    position: absolute;
+    width: 306px;
+    height: 412px;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .claritylanding-page .text-wrapper-14 {
+    position: absolute;
+    height: 44px;
+    top: 483px;
+    left: 0;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 38px;
+    letter-spacing: -0.4px;
+    line-height: 44px;
+    white-space: nowrap;
+  }
+  
+  .claritylanding-page .text-wrapper-15 {
+    position: absolute;
+    height: 28px;
+    top: 550px;
+    left: 0;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #b485d9;
+    font-size: 19px;
+    letter-spacing: 0;
+    line-height: 27.5px;
+    white-space: nowrap;
+  }
+  
+  .claritylanding-page .text-wrapper-16 {
+    position: absolute;
+    height: 28px;
+    top: 597px;
+    left: 0;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 27.5px;
+    white-space: nowrap;
+  }
+  
+  .claritylanding-page .section-2 {
+    position: absolute;
+    width: 306px;
+    height: 628px;
+    top: 0;
+    left: 385px;
+  }
+  
+  .claritylanding-page .dress-wrapper {
+    height: 413px;
+    border-radius: 35.93px;
+    background-image: url(./img/tipdilz7wysq-7c6y2fsrwwqfoouyphowuj-webp.png);
+    background-size: 100% 100%;
+    position: absolute;
+    width: 306px;
+    top: 48px;
+    left: 0;
+    overflow: hidden;
+  }
+  
+  .claritylanding-page .dress {
+    position: absolute;
+    width: 306px;
+    height: 413px;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .claritylanding-page .text-wrapper-17 {
+    position: absolute;
+    height: 44px;
+    top: 484px;
+    left: 0;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 39px;
+    letter-spacing: -0.4px;
+    line-height: 44px;
+    white-space: nowrap;
+  }
+  
+  .claritylanding-page .text-wrapper-18 {
+    position: absolute;
+    height: 28px;
+    top: 551px;
+    left: 0;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #b485d9;
+    font-size: 19px;
+    letter-spacing: 0;
+    line-height: 27.5px;
+    white-space: nowrap;
+  }
+  
+  .claritylanding-page .text-wrapper-19 {
+    position: absolute;
+    height: 28px;
+    top: 598px;
+    left: 0;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 17px;
+    letter-spacing: 0;
+    line-height: 27.5px;
+    white-space: nowrap;
+  }
+  
+  .claritylanding-page .section-3 {
+    position: absolute;
+    width: 320px;
+    height: 627px;
+    top: 0;
+    left: 721px;
+  }
+  
+  .claritylanding-page .house-wrapper {
+    height: 412px;
+    border-radius: 35.9px;
+    background-image: url(./img/tipdilz7wysq-26dkrpqgmid9eprvrryxmv-webp.png);
+    background-size: 100% 100%;
+    position: absolute;
+    width: 306px;
+    top: 48px;
+    left: 0;
+    overflow: hidden;
+  }
+  
+  .claritylanding-page .text-wrapper-20 {
+    position: absolute;
+    height: 28px;
+    top: 597px;
+    left: 0;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 17px;
+    letter-spacing: 0;
+    line-height: 27.5px;
+    white-space: nowrap;
+  }
+  
+  .claritylanding-page .section-4 {
+    position: absolute;
+    width: 401px;
+    height: 627px;
+    top: 0;
+    left: 1071px;
+  }
+  
+  .claritylanding-page .overlap-group-wrapper {
+    height: 412px;
+    border-radius: 35.9px;
+    position: absolute;
+    width: 306px;
+    top: 48px;
+    left: 0;
+    overflow: hidden;
+  }
+  
+  .claritylanding-page .keyholder-wrapper {
+    position: relative;
+    width: 241px;
+    height: 412px;
+    background-image: url(./img/tipdilz7wysq-1mycphla1jpz2ejvntccfo-webp.png);
+    background-size: 100% 100%;
+  }
+  
+  .claritylanding-page .keyholder {
+    position: absolute;
+    width: 241px;
+    height: 412px;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .claritylanding-page .section-flex {
+    display: inline-flex;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 773.22px;
+    padding: 0px 64px 0px 0px;
+    position: absolute;
+    top: 1144px;
+    left: 64px;
+  }
+  
+  .claritylanding-page .svg-cursor-pointer-wrapper {
+    position: relative;
+    width: 222.55px;
+    height: 40px;
+  }
+  
+  .claritylanding-page .svg-cursor-pointer {
+    position: relative;
+    width: 40px;
+    height: 40px;
+    left: 183px;
+  }
+  
+  .claritylanding-page .a-simple-button-2 {
+    align-items: center;
+    justify-content: center;
+    padding: 18px 31px 18px 32px;
+    background-color: #06cd98;
+    border: 2px solid;
+    display: inline-flex;
+    position: relative;
+    flex: 0 0 auto;
+    border-radius: 9999px;
+  }
+  
+  .claritylanding-page .div-grid-cols {
+    position: relative;
+    width: 1440px;
+    height: 651.81px;
+    background-color: #06cd98;
+  }
+  
+  .claritylanding-page .overlap-group-3 {
+    position: relative;
+    height: 654px;
+    top: -1px;
+  }
+  
+  .claritylanding-page .div-my-auto {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 45px;
+    padding: 83px 576px 84px 64px;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  
+  .claritylanding-page .experience-your {
+    position: relative;
+    width: 620px;
+    margin-top: -1px;
+    font-family: "Montserrat-Black", Helvetica;
+    font-weight: 900;
+    color: transparent;
+    font-size: 80px;
+    letter-spacing: 0;
+    line-height: 96px;
+  }
+  
+  .claritylanding-page .text-wrapper-21 {
+    color: #000000;
+  }
+  
+  .claritylanding-page .a-simple-button-3 {
+    align-items: flex-start;
+    padding: 15px 45px;
+    background-color: #000000;
+    display: inline-flex;
+    position: relative;
+    flex: 0 0 auto;
+    border-radius: 9999px;
+    all: unset;
+    box-sizing: border-box;
+  }
+  
+  .claritylanding-page .text-wrapper-22 {
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-weight: 600;
+    font-size: 19px;
+    line-height: 28px;
+    position: relative;
+    color: #ffffff;
+    text-align: center;
+    letter-spacing: 0;
+    white-space: nowrap;
+  }
+  
+  .claritylanding-page .tipdilzwysq {
+    position: absolute;
+    width: 592px;
+    height: 652px;
+    top: 1px;
+    left: 848px;
+  }
+  
+  .claritylanding-page .div-px {
+    position: relative;
+    width: 1442px;
+    height: 240px;
+    background-color: #000000;
+  }
+  
+  .claritylanding-page .group {
+    position: relative;
+    width: 1312px;
+    height: 33px;
+    top: 126px;
+    left: 64px;
+  }
+  
+  .claritylanding-page .div-flex-4 {
+    position: relative;
+    height: 33px;
+  }
+  
+  .claritylanding-page .text-wrapper-23 {
+    position: absolute;
+    height: 23px;
+    top: -2px;
+    left: 0;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 22.4px;
+    white-space: nowrap;
+  }
+  
+  .claritylanding-page .div-5 {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 24.01px;
+    padding: 0px 701.53px 0px 24px;
+    position: absolute;
+    top: 0;
+    left: 191px;
+  }
+  
+  .claritylanding-page .a-py {
+    position: relative;
+    width: 117.56px;
+    height: 24.39px;
+    background-color: #000000;
+  }
+  
+  .claritylanding-page .terms-policies {
+    position: absolute;
+    width: 134px;
+    height: 16px;
+    top: 2px;
+    left: -17px;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 15px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 22.4px;
+    white-space: nowrap;
+  }
+  
+  .claritylanding-page .a-py-2 {
+    position: relative;
+    width: 53.84px;
+    height: 24.39px;
+    background-color: #000000;
+  }
+  
+  .claritylanding-page .text-wrapper-24 {
+    position: absolute;
+    width: 54px;
+    height: 16px;
+    top: 2px;
+    left: 0;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 15px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 22.4px;
+    white-space: nowrap;
+  }
+  
+  .claritylanding-page .div-flex-5 {
+    position: absolute;
+    width: 200px;
+    height: 30px;
+    top: 0;
+    left: 1112px;
+  }
+  
